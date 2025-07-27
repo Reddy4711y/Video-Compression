@@ -135,9 +135,4 @@ User → Cloud Upload → Server-side FFmpeg → Store → Download Link
 
 ---
 
-## 📦 To-Do (Optional Extensions)
-
--
-
----
 
