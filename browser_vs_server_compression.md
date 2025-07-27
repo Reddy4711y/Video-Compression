@@ -141,9 +141,3 @@ User → Cloud Upload → Server-side FFmpeg → Store → Download Link
 
 ---
 
-Let me know if you need:
-
-- A downloadable `.md` version
-- Full backend + R2 upload/download pipeline
-- Demo repo with UI + FFmpeg.wasm integration
-
